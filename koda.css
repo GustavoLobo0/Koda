@@ -2,9 +2,9 @@
 
 
 body {
-    background-color: #d8abf4;
-    background-image: url(fundo.png);
+    background: linear-gradient(90deg, rgb(210, 119, 247), rgb(234, 156, 253), rgb(211, 181, 218));
 }
+
 
 .pai {
     text-align: center;
