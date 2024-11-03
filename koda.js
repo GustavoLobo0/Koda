@@ -20,3 +20,5 @@ dnv.addEventListener("click", function () {
 voltar.addEventListener("click", function () {
     respostacerta.style.display = "none";
 })
+
+    
